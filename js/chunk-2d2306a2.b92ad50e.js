@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2306a2"],{ebd3:function(e,a,t){"use strict";t.r(a);var n=function(){var e=this,a=e.$createElement,t=e._self._c||a;return t("div",e._l(e.cardData,(function(a){return t("div",{key:a.id},[e._v(" "+e._s(a.electives)+" ")])})),0)},r=[],c={name:"StudentsProfileCardEducation",props:{cardData:{type:Array,required:!0}}},d=c,i=t("2877"),u=Object(i["a"])(d,n,r,!1,null,"5a6a01e6",null);a["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d2306a2.b92ad50e.js.map

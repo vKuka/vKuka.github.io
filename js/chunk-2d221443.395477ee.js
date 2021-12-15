@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d221443"],{ca2a:function(e,a,r){"use strict";r.r(a);var t=function(){var e=this,a=e.$createElement,r=e._self._c||a;return r("div",e._l(e.cardData,(function(a){return r("div",{key:a.id},[e._v(" "+e._s(a.post)+" ")])})),0)},n=[],c={name:"StudentsProfileCardJob",props:{cardData:{type:Array,required:!0}}},d=c,u=r("2877"),i=Object(u["a"])(d,t,n,!1,null,"d5f6e9ac",null);a["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d221443.395477ee.js.map
